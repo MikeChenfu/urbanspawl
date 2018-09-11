@@ -4,5 +4,5 @@ This work developed a parallel geospatial CA model for urban growth simulation o
 
 ### Installation
 This implemntation requires [GADL](https://www.gdal.org/) library.
-Compile with CUDA Support, install [NVIDIA CUDA](https://developer.nvidia.com/cuda-downloads) 7.5 or above
+Compile with CUDA Support, install [NVIDIA CUDA](https://developer.nvidia.com/cuda-downloads) 7.5 or above.
 Compile with OpenMPI or Intel MPI 
